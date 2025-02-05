@@ -42,7 +42,7 @@ To run the project locally, follow these steps:
    *(or simply double-click the file to open it in a browser)*
 
 ## Screenshots
-![Homepage Screenshot](./assets/assignment-3.png) *(Replace with an actual screenshot URL)*
+![Homepage Screenshot](./assets/assignment-3.png) 
 
 ## Resources
 
